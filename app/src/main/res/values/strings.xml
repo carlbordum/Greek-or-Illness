@@ -1,0 +1,128 @@
+<resources>
+
+    <string name="app_name">Greek or Illness</string>
+    <string name="img_description">Greek or Illness Logo</string>
+    <string name="x_suffix">%1$dX</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="warning_msg">Are you sure you want to exit?</string>
+    <string name="question">Error: Failed to load question</string>
+    <string name="greek">Greek</string>
+    <string name="illness">Illness</string>
+    <string name="continjue">Continue</string>
+    <string name="streak_counter">0X</string>
+    <string name="best_streak_counter">0X</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="result">You\'re wrong, I\'m right</string>
+    <string name="info">Interesting stuff goes here</string>
+
+    <string-array name="greeks">
+        <item>Anacreon; was a Greek lyric poet, notable for his drinking songs and hymns. Later Greeks included him in the canonical list of nine lyric poets.</item>
+        <item>Anastasios Gousis; is a Greek sprint athlete. At the 2004 Olympics he made the semi-finals in the 200 m and competed for Greece in the 4x400 m relay.</item>
+        <item>Anaximander; was a pre-Socratic Greek philosopher who lived in Miletus, a city of Ionia. He belonged to the Milesian school and learned the teachings of his master Thales.</item>
+        <item>Archimedes; was an Ancient Greek mathematician, physicist, engineer, inventor, and astronomer.</item>
+        <item>Aristotle; was a Greek philosopher and scientist. According to the Encyclopædia Britannica, "Aristotle was the first genuine scientist in history &#8230; [and] every scientist is in his debt."</item>
+        <item>Colaeus; was an ancient Samian explorer and silver merchant, who according to Herodotus arrived at Tartessos circa 640 B.C..</item>
+        <item>Cynisca; or Kyneska (born c. 440 BC) was a Greek princess of Sparta. She became the first woman in history to win at the ancient Olympic Games.</item>
+        <item>Demy; is a Greek singer. At the 2012 MAD Video Music Awards, she won the award for Best New Artist and 2 other awards.</item>
+        <item>Dimitrios Deligiannis; was a Greek athlete. He competed at the 1896 Summer Olympics in Athens. He was one of 17 athletes to start the marathon race and he finished sixth.</item>
+        <item>Dionisis Chiotis; is a Greek football (soccer) player, who plays goalkeeper for Trikala in the Football League.</item>
+        <item>Dionysius Thrax; was a Hellenistic grammarian and a pupil of Aristarchus of Samothrace.</item>
+        <item>Dioxippus; was an ancient Greek pankratiast, renowned for his Olympic victories in the sport of pankration.</item>
+        <item>Efstathios Chorafas; was a Greek swimmer, who competed at the 1896 Summer Olympics in Athens. He was the only swimmer to compete in all three of the open swimming events.</item>
+        <item>Elena Votsi; is a Greek jewelry designer. In 2003 she designed the Athens 2004 Olympic Medal.</item>
+        <item>Euclid; was a Greek mathematician, often referred to as the "father of geometry". His work served as the main textbook for teaching mathematics from the time of its publication until the early 20th century.</item>
+        <item>Evridiki; is a Greek rock, pop, and electropop singer. She is best known in Europe for representing her home country, Cyprus, in the Eurovision Song Contest in 1992, 1994 and 2007.</item>
+        <item>Fotini Vavatsi; is an archer from Greece. She represented Greece at the 2004 Summer Olympics.</item>
+        <item>Fragiskos Alvertis; is a Greek former professional basketball player and current team manager of Panathinaikos Athens.</item>
+        <item>Giannis Skarimpas; or Yiannis Skarimbaswas a Greek writer, dramatist, and poet.</item>
+        <item>Hippocrates; was a Greek physician of the Age of Pericles (Classical Greece), and is considered one of the most outstanding figures in the history of medicine.</item>
+        <item>Hristos Banikas; is a Greek chess grandmaster from Salonica. He won eight Greek championships and an individual silver medal in the 2010 World Team Chess Championship.</item>
+        <item>Hydna; was an ancient Greek swimmer and diver given credit for the destruction of the Persian navy around 480 BCE.</item>
+        <item>Konstantinos Loumpoutis; is a Greek football player who is currently unattached. He is a defender who plays as a fullback on the left side of the pitch.</item>
+        <item>Konstantinos Tzortziou; is a professional League of Legends player, currently playing AD Carry or Marksman for Origen in the European League Championship.</item>
+        <item>Kostas Simitis; is a Greek politician who served as Prime Minister of Greece and was leader of the Panhellenic Socialist Movement (PASOK) from 1996 to 2004.</item>
+        <item>Lambros Konstantaras; was a Greek film actor who appeared in 80 films between 1940 and 1981. He was born and died in Athens.</item>
+        <item>Lavrentis Dianellos; was a Greek actor who died in 1978. In his 27 years of acting he appeared in 200 films, leading one reviewer to call him "ubiquitous".</item>
+        <item>Metrobius; was an actor in the Roman Republic, notable for having been the male lover of Lucius Cornelius Sulla Felix, the famed general and dictator.</item>
+        <item>Minas Alozidis; is a Greek hurdler. He competes in the 200m and 400m hurdle events. He finished 7th in the 400m hurdles final at the 2006 European Athletics Championships in Gothenburg.</item>
+        <item>Nanos Valaoritis; is a Greek writer who has been widely published as a poet, novelist and playwright since 1939.</item>
+        <item>Panagiotis Markouizos; is a Greek figure skater. He is a multiple Greek national champion. His highest placement at an ISU championship was 33rd at the 2001 European Figure Skating Championships.</item>
+        <item>Pantazidis; was a Greek shooter. He competed at the 1896 Summer Olympics in Athens in the military pistol event.</item>
+        <item>Phoebus; is a well-known songwriter in both Greece and Cyprus. Phoebus is mostly known for his music through Despina Vandi and Katy Garbi.</item>
+        <item>Pindar; was an Ancient Greek lyric poet from Thebes. Of the canonical nine lyric poets of ancient Greece, his work is the best preserved.</item>
+        <item>Publius; is a Maltese Saint. He is venerated as the first Bishop of Malta.</item>
+        <item>Pyrros Dimas; is a retired Greek weightlifter. He is currently involved in politics, as a member of the Greek parliament, representing the Panhellenic Socialist Movement.</item>
+        <item>Pythagoras; was an Ionian Greek philosopher, mathematician, and has been credited as the founder of the movement called Pythagoreanism.</item>
+        <item>Procopius; of Caesarea was a prominent antique scholar from Palaestina Prima. He is commonly held to be the last major historian of the ancient Western world.</item>
+        <item>Sanidis; was a Greek shooter. He competed at the 1896 Summer Olympics in Athens in the military pistol event without finishing the competition.</item>
+        <item>Sapfo Notara; was a Greek actress, known for supporting capabilities in acting. In Greek movies, she acted in comedies as an aunt or a housewife.</item>
+        <item>Socrates; was a classical Greek philosopher credited as one of the founders of Western philosophy. He is an enigmatic figure known chiefly through the accounts of classical writers</item>
+        <item>Spyros Gogolos; is an experienced Greek footballer, currently playing for Aris in the Football League 2, as a defender.</item>
+        <item>Stelios Mainas; has been working as a stage-, cinema- and television actor since he graduated in 1982. He won the Best Actor Award in Hellenic Film Academy Awards for his role in Tetarti 4:45 in 2015.</item>
+        <item>Sotiris Moustakas; was a Greek Cypriot comedy actor from 1964 until he passed away in 2007 at the age of 66.</item>
+        <item>Takis Fyssas; is a Greek former international football player who played as a defender. Currently, he is the technical director of the Hellenic Football Federation.</item>
+        <item>Thespis; was the first person ever to appear on stage as an actor playing a character in a play (instead of speaking as him or herself).</item>
+        <item>Thucydides; was an Athenian historian who has been dubbed the father of "scientific history" because of his strict standards of evidence-gathering and analysis of cause and effect without reference to intervention by the gods.</item>
+        <item>Vassilis Tsiartas; is a retired Greek international football player who played as an attacking midfielder. During his career, he scored 12 goals for the national team.</item>
+        <item>Xenophon Zolotas; was a Greek economist and served as an interim non-party Prime Minister of Greece.</item>
+        <item>Zisis Vryzas; is a former football player and currently the technical director of Veria F.C..</item>
+    </string-array>
+
+    <string-array name="illnesses">
+        <item>Accretio Cordis; is an pericarditis involving an adhesion extending from the pericardium to the mediastinum, pleura, diaphragm, and chest wall.</item>
+        <item>Alexia; is when someone who previously could read loses their ability to do so.</item>
+        <item>Amaurosis Fugax; is a painless transient monocular or binocular visual loss (i.e., loss of vision in one or both eyes that is not permanent).</item>
+        <item>Angina Pectoris; is the sensation of chest pain, pressure, or squeezing, often due to ischemia of the heart muscle from obstruction or spasm of the coronary arteries.</item>
+        <item>Anthrax; is an infection caused by the bacterium Bacillus anthracis. Symptoms begin between one day and two months after contracting the infection.</item>
+        <item>Aphasia; is a combination of a speech and language disorder caused by damage to the brain that affects about one million individuals within the US.</item>
+        <item>Apraxia; is a motor disorder caused by damage to the brain, in which someone has difficulty with the motor planning to perform tasks or movements when asked.</item>
+        <item>Arrhythmia; is a group of conditions in which the heartbeat is irregular, too fast, or too slow.</item>
+        <item>Arteriosclerosis; is the thickening, hardening and loss of elasticity of the walls of arteries. This process gradually restricts the blood flow to one\'s organs and tissues and can lead to severe health risks.</item>
+        <item>Barrett Esophagus; refers to an abnormal change (metaplasia) in the cells of the lower portion of the esophagus.</item>
+        <item>Beriberi; is a disease of the nervous system caused by a person not getting enough thiamine (vitamin B1) in the diet. Thiamine is needed to break down food such as glucose.</item>
+        <item>Brucellosis; is a highly contagious zoonosis caused by ingestion of unpasteurized milk or undercooked meat from infected animals, or close contact with their secretions.</item>
+        <item>Carcinoma Hepatocellulare; is the most common type of liver cancer. HCC can be a result of a viral hepatitis infection or metabolic toxins such as alcohol.</item>
+        <item>Cavernous Hemangioma; is a type of blood vessel malformation or hemangioma, where a collection of dilated blood vessels form a benign tumor.</item>
+        <item>Chalazion; is a cyst in the eyelid that is caused by inflammation of a blocked meibomian gland, usually on the upper eyelid.</item>
+        <item>Cerebral palsy; is a group of disorders that affect a person’s ability to move and maintain balance and posture.</item>
+        <item>Dengue Febris; is a mosquito-borne tropical disease caused by the dengue virus. Symptoms typically begin three to fourteen days after infection.</item>
+        <item>Epiphora; is an overflow of tears onto the face. A clinical sign or condition that constitutes insufficient tear film drainage from the eyes in that tears will drain down the face rather than through the nasolacrimal system.</item>
+        <item>Epistaxis; is just nosebleed xD</item>
+        <item>Erysipeloid; is an acute bacterial infection of traumatized skin and other organs. It is coursed by direct contact between meat infected with Erysipelothrix rhusiopathiae and traumatized human skin.</item>
+        <item>Ictus; is a sudden event such as a stroke, seizure, collapse, or faint.</item>
+        <item>Glioblastoma Multiforme; is the most common and most aggressive cancer that begins within the brain.</item>
+        <item>Keratoconus; is a degenerative disorder of the eye in which structural changes within the cornea cause it to thin and change to a more conical shape than the more normal gradual curve.</item>
+        <item>Kuru; is a disease caused by cannibalism, specifically eating human brains. It is also known as the "laughing sickness" due to the pathologic bursts of laughter that the patient displays.</item>
+        <item>Laryngitis; is an inflammation of the larynx. It causes hoarse voice or temporary complete loss of the voice because of irritation to the vocal folds (vocal cords).</item>
+        <item>Leprosy; is a long term infection. Symptoms usually appear 5&#8211;20 years after infection. It can result in a lack of ability to feel pain and thus loss of extremities due to repeated injuries or infection due to unnoticed wounds</item>
+        <item>Melanoma; is a type of cancer that develops from the pigment-containing cells known as melanocytes. Typically occur in the skin but may rarely occur in the mouth, intestines, or eye.</item>
+        <item>Morbillus; is a highly contagious infection caused by the measles virus. Initial signs and symptoms typically include fever, often greater than 40 °C (104.0 °F), cough, runny nose, and inflamed eyes.</item>
+        <item>Morbus Hispanicus; was an unusually deadly influenza pandemic. It infected 500 mil people across the world and resulted in the death of 3&#8211;5% of the world\'s population, making it one of the deadliest diseases in human history.</item>
+        <item>Morbus Waldenstrom; is a type of cancer affecting B cells. The main attributing antibody is immunoglobulin M (IgM).</item>
+        <item>Myasthenia Gravis; is a chronic autoimmune neuromuscular disease characterized by varying degrees of weakness of the skeletal (voluntary) muscles of the body.</item>
+        <item>Nyctalopia; is a disease of the human eyes.The eyes of people who are night-blind cannot adapt to situations where there is relatively little light; as a result, they have trouble seeing in such situations.</item>
+        <item>Nystagmus; is a condition of involuntary eye movement, acquired in infancy or later in life, that may result in reduced or limited vision. Due to the involuntary movement of the eye, it is often called "dancing eyes".</item>
+        <item>Papillary Carcinoma; is the most common type of thyroid cancer, representing 75&#8211;85% of all thyroid cancer cases. It occurs more frequently in women and presents in the 20&#8211;55 year age group.</item>
+        <item>Parotitis Epidema; is a viral disease caused by the mumps virus. Initial signs and symptoms often include fever, muscle pain, headache, and feeling tired.</item>
+        <item>Pinta; is a human skin disease endemic caused by infection with a spirochete, Treponema pallidum carateum, which is morphologically and serologically indistinguishable from the organism that causes syphilis.</item>
+        <item>Pityriasis Versicolor; is a condition characterized by a skin eruption on the trunk and proximal extremities.The condition was first identified in 1846.</item>
+        <item>Pleural Effusion; is a condition in which excess fluid builds around the lungs. This excess can impair breathing by limiting the expansion of the lungs.</item>
+        <item>Presbycusis; is a progressive and irreversible bilateral symmetrical age-related sensorineural hearing loss resulting from degeneration of the cochlea or associated structures of the inner ear or auditory nerves.</item>
+        <item>Prosopagnosia; is a cognitive disorder of face perception where the ability to recognize familiar faces, including one\'s own face, is impaired, while other aspects of visual processing and intellectual functioning remain intact.</item>
+        <item>Pruritus Ani; is a Latin term meaning “itchy anus” and is defined as an unpleasant sensation of the skin around the anus (i.e., rectal opening) that produces the desire to scratch.</item>
+        <item>Rheumatoid Arthritis; is a long-lasting autoimmune disorder that primarily affects joints. It typically results in warm, swollen, and painful joints.</item>
+        <item>Rubella; is an infection caused by the rubella virus. This disease is often mild with half of people not realizing that they are sick.</item>
+        <item>Tetanus; is a disease that leads to muscle contractions that stay that way for some time. Infection generally occurs through wound contamination, and often involves a cut or deep puncture wound.</item>
+        <item>Tibiaperiostit; is pain along the inner edge of the shinbone and is usually caused by repeated trauma to the connective muscle tissue surrounding the tibia.</item>
+        <item>Tularemia; is a serious infectious disease caused by the intracellular bacterium Francisella tularensis. It causes fever, and sometimes ulceration at the site of entry and/or swelling of nearby lymph nodes.</item>
+        <item>Typhoid; is a bacterial infection. Symptoms may vary from mild to severe and usually begin six to thirty days after exposure.</item>
+        <item>Ulcus Aphthous; is a common condition characterized by the repeated formation of benign and non-contagious mouth ulcers (aphthae) in otherwise healthy individuals.</item>
+        <item>Variola; was a very infectious and dangerous disease .After vaccination campaigns throughout the 19th and 20th centuries, the WHO certified the global eradication of variola or smallpox in 1979.</item>
+        <item>Varices Venarum; is an abnormally dilated vessel with a tortuous course. Varices usually occur in the venous system, but may also occur in arterial or lymphatic vessels.</item>
+        <item>Vitiligo; is a long lasting skin disease that causes the losing of color from the skin. It occurs when the melanocytes, cells that give skin their color, die or do not work.</item>
+    </string-array>
+
+</resources>

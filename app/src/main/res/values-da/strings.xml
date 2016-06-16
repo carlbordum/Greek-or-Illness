@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Græker eller Sygdom</string>
+    <string name="img_description">Græker eller Sygdom Logo</string>
+    <string name="x_suffix">%1$dX</string>
+
+    <string name="yes">Ja</string>
+    <string name="no">Nej</string>
+    <string name="warning_msg">Du er ved at afslutte appen. Fortsæt?</string>
+    <string name="question">Error: Failed to load question</string>
+    <string name="greek">Græker</string>
+    <string name="illness">Sygdom</string>
+    <string name="continjue">Fortsæt</string>
+    <string name="streak_counter">0X</string>
+    <string name="best_streak_counter">0X</string>
+    <string name="correct">Korrekt</string>
+    <string name="incorrect">Forkert</string>
+    <string name="result">You\'re wrong, I\'m right</string>
+    <string name="info">Interesting stuff goes here</string>
+
+    <string-array name="greeks">
+        <item>Anacreon; var en græsk lyrisk poet, mest kendt for sine druksange og salmer. Grækerne inkluderede ham senere i listen over de ni lyrikere.</item>
+        <item>Anastasios Gousis; er en græsk sprintatlet. Ved 2004 Olympiaden nåede han til semifinalen i 200 meter og konkurrerede for grækenland i 4x400 stafetløb.</item>
+        <item>Anaximander; var en græsk filosof, som levede før Sokrates. Han kom fra Milet og har formentlig udvekslet mange tanker og holdninger sammen med sin kollega Thales.</item>
+        <item>Archimedes; var en græsk matematiker, astronom, filosof, fysiker og ingeniør.</item>
+        <item>Aristotle; var en græsk filosof. Sammen med Platon regnes han for den, der har haft størst indflydelse på den vestlige verdens tanker.</item>
+        <item>Colaeus; var udforsker og sølvforhandler. som i følge Herodotus ankom til Tartessos cirka 640 f.Kr..</item>
+        <item>Cynisca; eller Kyneska (født ca. 440 f.Kr.) var Spartas græske prinsesse. Hun er den første kvinde, der nogensinde har vundet de Olympiske lege.</item>
+        <item>Demy; er en græsk sanger. Ved 2012 MAD Video Music Awards, vandt hun prisen "Best New Artist" og 2 andre priser.</item>
+        <item>Dimitrios Deligiannis; var en græsk atlet. Han konkurrerede i 1896 ved sommerolympiaden i Athen. Han var en af de 17 atleter, der startede marathonræset og han sluttede med en sjette plads.</item>
+        <item>Dionisis Chiotis; er en græsk fodbold spiller, som spiller målmand for Trikala i Football League.</item>
+        <item>Dionysius Thrax; var en hellenistisk grammatiker og en af Aristarchus elever.</item>
+        <item>Dioxippus; var en gammel græsk pankratiast, kendt for sine Olympiske sejre i Pankration.</item>
+        <item>Efstathios Chorafas; var en græsk svømmer, som konkurrerede ved 1896 sommerolympiaden i Athen. Han var den eneste svømmer som deltog i alle tre åbne svømmediscipliner.</item>
+        <item>Elena Votsi; er en græsk smykkedesigner. Hun designede medaljen til 2004 olympiaden.</item>
+        <item>Euclid; var en græsk matematiker, som der ofte bliver refereret til som "geometriens fader". Hans værker er blevet brugt til at lære matematik siden de blev udgivet indtil det tidlige tyvende århundrede.</item>
+        <item>Evridiki; er en græsk rock, pop, og elektropopsanger. Hun er mest kendt i Europa for at repræsentere Cypern i Melody Grand Prix i 1992, 1994 og 2007.</item>
+        <item>Fotini Vavatsi; er en bueskytte fra Grækenland. Hun repræsenterede Grækenland ved sommerolympiaden i 2004.</item>
+        <item>Fragiskos Alvertis; er en græsk tidligere professionel basketballspiller og nuværende team manager for Panathinaikos Athens.</item>
+        <item>Giannis Skarimpas; er en græsk forfatter, dramatiker, og poet.</item>
+        <item>Hippocrates; var en græsk læge, og betragtes som en af de mest markante skikkelser i historien om medicin.</item>
+        <item>Hristos Banikas; er en græsk skakstormester fra Salonica. Han vandt otte græske mesterskaber og en individuel sølv medalje til 2010 World Team Chess Championship.</item>
+        <item>Hydna; var en græsk svømmer og dykker som har fået æren for ødelæggelsen af den persiske flåde omkring 480 f.Kr..</item>
+        <item>Konstantinos Loumpoutis; er en græsk fodboldspiller som ikke er under nogen kontrakt. Han spiller forsvar.</item>
+        <item>Konstantinos Tzortziou; er en professionel League of Legends spiller, som i øjeblikket spiller for Origen i den europæiske liga.</item>
+        <item>Kostas Simitis; er en græsk politiker, der tjente som premierminister i Grækenland og var leder af PASOK mellem 1996 og 2004.</item>
+        <item>Lambros Konstantaras; var en græsk skuespiller, der dukkede op i 80 film mellem 1940 og 1981. Han blev født og døde i Athen.</item>
+        <item>Lavrentis Dianellos; var en græsk skuespiller, der døde i 1978. Gennem 27 år optrådte han i 200 film.</item>
+        <item>Metrobius; var en skuespiller i den romerske republik, kendt for at have været den mandlige elsker til Lucius Cornelius Sulla Felix, den berømte general og diktator.</item>
+        <item>Minas Alozidis; er en græsk hækkeløber. Han konkurrerer i 200 og 400 m hækkeløb. Han sluttede på 7. plads i 400 m hækkeløb i finalen til 2006 European Athletics Championships i Göteborg.</item>
+        <item>Nanos Valaoritis; er en græsk digter, romanforfatter og dramatiker, som siden 1939 har været vidt publiceret.</item>
+        <item>Panagiotis Markouizos; er en græsk kunstskøjteløber. Han er blevet græsk national mester mange gange. Hans højeste placering til et ISU mesterskab var 33. til 2001 European Figure Skating Championship.</item>
+        <item>Pantazidis; var en græsk skytte. Han konkurrerede ved 1896 sommerolympiaden i Athen i militær begivenheden.</item>
+        <item>Phoebus; er en kendt sangskriver i Grækenland og på Cypern. Phoebus er mest kendt gennem den musik han har skrevet for Despina Vandi og Katy Garbi.</item>
+        <item>Pindar; var en græsk lyrisk poet fra Thebes. Af de ni lyrikeres værker er hans bedst bibeholdt.</item>
+        <item>Publius; er et maltesisk helgen. Han er agtet som den første biskop af Malta.</item>
+        <item>Pyrros Dimas; er en pensioneret græsk vægtløfter. Han er i øjeblikket involveret i politik, som et medlem af det græske parlament, der repræsenterer PASOK.</item>
+        <item>Pythagoras; var en græsk filosof, mystiker, matematiker, musikteoretiker og musikterapeut.</item>
+        <item>Procopius; af Cæsarea var en fremtrædende antik akademiker fra Palestina Prima. Han er almindeligt anset for at være den sidste store historiker i den antikke vestlige verden.</item>
+        <item>Sanidis; var en græsk skytte. Han konkurrerede til Sommer-OL i 1896 i Athen i den militære begivenhed uden at færdiggøre konkurrencen.</item>
+        <item>Sapfo Notara; var en græsk skuespillerinde. Hun spillede i græske komedie film som enten en tante eller en hustru.</item>
+        <item>Socrates; var en græsk filosof fra Athen. Hans indflydelse, der er formidlet igennem hans elev Platon, er blevet så skelsættende, at han er en af de mest kendte og respekterede tænkere.</item>
+        <item>Spyros Gogolos; er en erfaren fodboldspiller, lige for tiden spiller han i Aris i den engelske Football League 2. Han spiller forsvar.</item>
+        <item>Stelios Mainas; har arbejdet som en teater-, biograf og tv-skuespiller, siden han dimitterede i 1982. Han vandt prisen for bedste skuespiller i Hellenic Film Academy Awards for sin rolle i Tetarti 04:45 i 2015.</item>
+        <item>Sotiris Moustakas; var en græsk-cypriotisk komedieskuespiller fra 1964 til han døde i 2007 i en alder af 66.</item>
+        <item>Takis Fyssas; er en græsk tidligere international fodboldspiller, der spillede som forsvar. I øjeblikket er han den tekniske direktør for Grækenlands fodboldforbund.</item>
+        <item>Thespis; was the first person ever to appear on stage as an actor playing a character in a play (instead of speaking as him or herself).</item>
+        <item>Thucydides; var en historiker fra Athen, der er blevet kaldt faderen til "videnskabelig historie" på grund af sine strenge standarder for bevismateriale-indsamling og analyse af årsag og virkning uden henvisning til indgreb fra guderne.</item>
+        <item>Vassilis Tsiartas; er en pensioneret græsk international fodboldspiller, der spillede som angribende midtbanespiller. I løbet af sin karriere, scorede han 12 mål for landsholdet.</item>
+        <item>Xenophon Zolotas; var en græsk økonom og tjente som en midlertidig premierminister uden at være medlem af et parti.</item>
+        <item>Zisis Vryzas; er en tidligere fodboldspiller og i øjeblikket den tekniske direktør i Veria f.c ..</item>
+    </string-array>
+
+    <string-array name="illnesses">
+        <item>Accretio Cordis; er en vedhæftning af perikardiet til hosliggende ekstrakardiale strukturer.</item>
+        <item>Alexia; er tab af evnen til at se.</item>
+        <item>Amaurosis Fugax; er et smertefrit forbigående synstab. Dette kan ske i et eller begge øjne og er kun midlertidigt.</item>
+        <item>Angina Pectoris; er følelse af smerte eller tryk i brystet, often forårsaget af iskemi i hjertemusklen fra obstruktion eller spasmer i koronar arterierne.</item>
+        <item>Anthrax; er en infektion forårsaget af bakteriet Bacillus anthracis. Symptomerne viser sig mellem en dag og two måneder efter kontakt med infektionen.</item>
+        <item>Aphasia; er en kombination af tale- og sprogforstyrelser forårsaget af hjerneskade.</item>
+        <item>Apraxia; er en motorisk forstyrelse forårsaget af hjerneskade, hvor man har svært ved at planlægge og udføre handlinger eller bevægelser, når man bliver bedt om det.</item>
+        <item>Arrhythmia; er en gruppe af lidelser, hvor hjertet slår irregulært.</item>
+        <item>Arteriosclerosis; er en fortykkelse, hærdning og tab af elasticitet af væggene i arterier. Denne proces begrænser gradvist blodtilførslen til ens organer og væv og kan føre til alvorlige sundhedsmæssige risici.</item>
+        <item>Barrett Esophagus; refererer til en unormal ændring af cellerne i den nedre del af spiserøret.</item>
+        <item>Beriberi; er en sygdom i nervesystemet forårsaget af for lidt thiamin (vitamin B1). Thiamin er nødvendigt for at nedbryde fødevarer såsom glucose.</item>
+        <item>Brucellosis; er en meget smitsom zoonose forårsaget af indtagelse af upasteuriseret mælk eller råt kød fra inficerede dyr eller tæt kontakt med deres sekreter.</item>
+        <item>Carcinoma Hepatocellulare; er den mest almindelige form for leverkræft. Det kan være forårsaget ef en viral hepatitis infektion eller metaboliske toksiner, såsom alkohol.</item>
+        <item>Cavernous Hemangioma; er en type af blodkar misdannelse eller hemangioma, hvor en samling af udvidede blodkar danner en godartet svulst.</item>
+        <item>Chalazion; er en cyste i øjenlåget, forårsaget af betændelse i blokerede meibomske kirtler, som regel på det øverste øjenlåg.</item>
+        <item>Cerebral palsy; er en gruppe af lidelser, som påvirker en persons evne til at bevæge sig og opretholde balance og kropsholdning.</item>
+        <item>Dengue Febris; er en myg-båren tropisk sygdom forårsaget af dengue virus. Symptomerne begynder typisk tre til fjorten dage efter infektion.</item>
+        <item>Epiphora; er en overflod af tårer på ansigtet. Det udgør mangel på tårefilmsdræning fra øjnene, så tårerne vil dræne ned i ansigtet snarere istedet for igennem nasolacrimale systemet.</item>
+        <item>Epistaxis; er bare næseblod.</item>
+        <item>Erysipeloid; er en akut bakteriel infektion af såret hud og andre organer. Det kommer ved direkte kontakt mellem kød inficeret med Erysipelothrix rhusiopathiae og såret menneskehud.</item>
+        <item>Ictus; er en pludselig hændelse, såsom et slagtilfælde, anfald, kollaps, eller besvimelse.</item>
+        <item>Glioblastoma Multiforme; er den mest almindelige og mest aggressive kræft, som begynder i hjernen.</item>0
+        <item>Keratoconus; er en degenerativ lidelse i øjet. Strukturelle ændringer i hornhinden får øjet til at forandre sig fra den normale kurvede form til en mere konisk.</item>
+        <item>Kuru; er en sygdom forårsaget af kannibalisme, specifikt af at spise menneskehjerne. Det er også kendt som "den leende sygdom" på grund af de patologiske udbrud af latter fra patienten.</item>
+        <item>Laryngitis; er en betændelse i strubehovedet. Det forårsager hæs stemme eller midlertidig fuldstændig tab af stemmen på grund af irritation af vokal folder (stemmebånd).</item>
+        <item>Leprosy; er en langsigtet infektion. Symptomerne vises normalt 5&#8211;20 år efter smittelsen. Det kan resultere i en manglende evne til at føle smerte og dermed tab af ekstremiteter på grund af gentagne skader eller infektion på grund ubemærkede sår.</item>
+        <item>Melanoma; er en type kræft, der udvikler sig fra pigment-holdige celler kaldet melanocytter. Typisk forekommer det i huden, men kan sjældent forekomme i munden, tarmene, eller øjnene.</item>
+        <item>Morbillus; er en meget smitsom infektion forårsaget af mæslingevirus. Indledende tegn og symptomer omfatter typisk feber (ofte over 40°C), hoste, løbende næse, og betændte øjne.</item>
+        <item>Morbus Hispanicus; var en usædvanlig dødelig influenzapandemi, som smittede 500 millioner mennesker i hele verden og resulterede i død for 3&#8211;5% af verdens befolkning, hvilket gør den til en af de dødeligste sygdomme i menneskets historie.</item>
+        <item>Morbus Waldenstrom; er en form for kræft som påvirker B-celler.</item>
+        <item>Myasthenia Gravis; er en sygdom, som fører til svaghed og øget træthed i muskulaturen. Tilstanden er en autoimmun sygdom, hvor impulsoverførslen fra nerve til muskel er forstyrret.</item>
+        <item>Nyctalopia; er en sygdom i øjet. Folk der lider af dette har svært ved at vænne sig til situationer, hvor der er svag belysning.</item>
+        <item>Nystagmus; er ufrivillig bevægelse af øjet. Disse bevægelser kan forringe synet. Det er ofte et symptom ved flere forskellige sygdomme, herunder multipel sklerose og hjerneskader.</item>
+        <item>Papillary Carcinomaer; er den mest almindelige form for kræft i skjoldbruskkirtlen, der repræsenterer 75&#8211;85% af alle tilfælde af kræft i skjoldbruskkirtlen.</item>
+        <item>Parotitis Epidema; er i dagligtale kendt som fåresyge. Fåresyge er en inflammationssygdom, der rammer en eller flere spytkirtler, normalt ørespytkirtlen (ved kæben).</item>
+        <item>Pinta; er en bakteriel infektion af huden, der forårsager læsioner, rød til blålig-sort farvede pletter af huden. Pinta er forårsaget af bakterien Treponema carateum, en slægtning af den bakterie, der forårsager syfilis.</item>
+        <item>Pityriasis Versicolor; er en svampeinfektion på bryst, ryg og overarme. Symptomerne er misfarvede udslæt, som kan fremtræde lyst, mørkt eller rødligt. Udslættene er ganske let skællende.</item>
+        <item>Pleural Effusion; er en tilstand hvor der samles mere end 10 ml væske omkring lungerne. Dette kan føre til hæmning af vejrtrækning, da lungerne ikke har plads til at udvide sig.</item>
+        <item>Presbycusis; er gradvist høretab på begge ører, der typisk forekommer med alderen. Næsten halvdelen over 75 lider af dette.</item>
+        <item>Prosopagnosia; er en kognitiv forstyrrelse som hæmmer evnen til at genkende ansigter inklusiv ens eget. Dette påvirker dog ikke nødvendigvis andre aspekter af visuel forarbejdning og intellektuel funktion.</item>
+        <item>Pruritus Ani; er latinsk og betyder ”kløende anus" og defineres som en ubehagelig fornemmelse i huden omkring anus (dvs. rektal åbning), som giver den smittede lyst til at klø.</item>
+        <item>Rheumatoid Arthritis; er i dagligtale kendt som leddegigt. Leddegigt er når nogle af kroppens led bliver angrebet af en betændelseslignende tilstand. Dette kan føre til, at ledbrusken ødelægges.</item>
+        <item>Rubella; er i dagligtale kendt som røde hunde. Røde hunde er en infektion forsaget af rubellavirus først i luftvejene og siden hen med spredning til lymfeknuder, hud og slimhinder.</item>
+        <item>Tetanus; er i dagligtale kendt som stivkrampe. Stivkrampe er alvorlige og langvarige muskelkramper der kan brække knogler. Smitte sker generelt gennem infektioner af dybe sår.</item>
+        <item>Tibiaperiostit; er i dagligtale kendt som skinnebensbetændelse. Skinnebensbetændelse giver smerter ned langs skinnebenets inderste kant og er normalt forårsaget af læsion af binde- og muskelvæv omkring skinnebenet.</item>
+        <item>Tularemia; er en såkaldt zoonose, det vil sige sygdom hos dyr, som også smitter mennesker. Tularemia forsager hævede lymfeknuder i nærheden af det område, hvor bakterien er kommet ind i kroppen.</item>
+        <item>Typhoid; er i dagligtale kendt som tyfus. Tyfus skyldes infektion med en særlige form for salmonella-bakterie, Salmonella Typhi.</item>
+        <item>Ulcus Aphthou; er en almindelig tilstand karakteriseret ved dannelse af ikke-smitsomme mundsår (after) hos ellers raske individer.</item>
+        <item>Variola; var en meget smitsom og farlig virussygdom hos mennesker. Dødeligheden af Variola (også kendt som kopper) er anslået til at være mellem 20 og 60%. Kopper blev i 1980 erklæret for udryddet af WHO.</item>
+        <item>Varices Venarum; er i dagligtale kendt som åreknuder. Åreknuder er udvidede, slyngede blodårer lige under huden. De kan oftest ses gennem huden og buler frem på benet, særligt i læggen.</item>
+        <item>Vitiligo; er en hudsygdom, som skyldes, at man får færre af de celler i huden, som danner pigment. Derved opstår der hvide pletter på huden. De pigmentdannende celler kaldes melanocytter.</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorWhite</item>
+    </style>
+
+    <style name="CorrectTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorCorrect</item>
+        <item name="colorPrimaryDark">@color/colorCorrectDark</item>
+        <item name="colorAccent">@color/colorWhite</item>
+    </style>
+
+    <style name="IncorrectTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorIncorrect</item>
+        <item name="colorPrimaryDark">@color/colorIncorrectDark</item>
+        <item name="colorAccent">@color/colorWhite</item>
+    </style>
+
+    <style name="ButtonStyling" parent="android:Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="ButtonStylingXL" parent="@style/ButtonStyling">
+        <item name="android:layout_height">140dp</item>
+        <item name="android:textSize">50sp</item>
+    </style>
+
+</resources>

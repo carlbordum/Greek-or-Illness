@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main_layout"
+    android:background="@color/colorPrimary"
+    tools:context="MainActivity">
+
+    <ImageView
+        android:layout_width="62dp"
+        android:layout_height="62dp"
+        android:src="@drawable/icon"
+        android:contentDescription="@string/img_description"
+        android:layout_margin="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/best_streak_counter"
+        android:id="@+id/best_streak_view"
+        android:textSize="40sp"
+        android:textColor="@color/colorWhite"
+        android:layout_margin="18dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/question"
+        android:text="@string/question"
+        android:textColor="@color/colorWhite"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:gravity="center"
+        android:textSize="35sp"
+        android:paddingTop="150dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/greekButton"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/streak_counter"
+            android:textSize="40sp"
+            android:textColor="@color/colorWhite"
+            android:id="@+id/streak_counter"/>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/buttonView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_centerInParent="true"/>
+
+    <Button
+        style="@style/ButtonStyling"
+        android:text="@string/greek"
+        android:id="@+id/greekButton"
+        android:background="@color/colorPrimaryDark"
+        android:layout_alignRight="@id/buttonView"
+        android:layout_alignEnd="@id/buttonView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+
+    <Button
+        style="@style/ButtonStyling"
+        android:text="@string/illness"
+        android:id="@+id/illnessButton"
+        android:background="@color/colorPrimaryDark"
+        android:layout_alignLeft="@id/buttonView"
+        android:layout_alignStart="@id/buttonView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>
